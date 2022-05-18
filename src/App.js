@@ -14,7 +14,6 @@ function App() {
   },[])
   return (
     <div className="App">
-     <h2>Comming soon....</h2>
      {/*   <img src={src}/> */}
     </div>
   );
